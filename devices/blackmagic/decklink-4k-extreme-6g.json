@@ -1,0 +1,31 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "DeckLink 4K Extreme 6G"
+  },
+  "inputs": [
+    {
+      "name": "SDI In Ch A",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI In Ch B",
+      "type": "bnc"
+    },
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "SDI Out Ch A",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI Out Ch B",
+      "type": "bnc"
+    },
+    { "name": "HDMI OUT", "type": "hdmi" }
+  ]
+}

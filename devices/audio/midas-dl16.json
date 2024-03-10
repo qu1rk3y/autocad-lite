@@ -1,0 +1,90 @@
+{
+  "options": {
+    "vendor": "Midas",
+    "model": "DL16"
+  },
+  "inputs": [
+    {
+      "name": "IN 1",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 2",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 3",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 4",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 5",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 6",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 7",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 8",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 9",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 10",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 11",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 12",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 13",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 14",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 15",
+      "type": "xlr"
+    },
+    {
+      "name": "IN 16",
+      "type": "xlr"
+    },
+    {
+      "name": "AES50 A",
+      "type": "rj45"
+    },
+    {
+      "name": "AES50 B",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "OUT 1", "type": "xlr" },
+    { "name": "OUT 2", "type": "xlr" },
+    { "name": "OUT 3", "type": "xlr" },
+    { "name": "OUT 4", "type": "xlr" },
+    { "name": "OUT 5", "type": "xlr" },
+    { "name": "OUT 6", "type": "xlr" },
+    { "name": "OUT 7", "type": "xlr" },
+    { "name": "OUT 8", "type": "xlr" }
+  ]
+}

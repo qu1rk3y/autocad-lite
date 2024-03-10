@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "Talkback Headset",
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "type": "minijack"
+    }
+  ]
+}

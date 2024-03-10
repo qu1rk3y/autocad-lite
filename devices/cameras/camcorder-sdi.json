@@ -1,0 +1,9 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "SDI Camcorder",
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [{ "type": "bnc" }]
+}

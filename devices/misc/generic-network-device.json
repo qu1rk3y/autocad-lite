@@ -1,0 +1,14 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "Network Device",
+    "placeholders": true
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "Ethernet",
+      "type": "rj45"
+    }
+  ]
+}

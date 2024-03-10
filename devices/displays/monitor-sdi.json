@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "SDI Monitor",
+    "compact": true
+  },
+  "inputs": [
+    {
+      "type": "bnc"
+    }
+  ],
+  "outputs": []
+}

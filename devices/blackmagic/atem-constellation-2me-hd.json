@@ -1,0 +1,120 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "ATEM 2 M/E Constellation HD"
+  },
+  "inputs": [
+    {
+      "name": "Input 1",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 2",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 3",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 4",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 5",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 6",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 7",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 8",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 9",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 10",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 11",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 12",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 13",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 14",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 15",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 16",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 17",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 18",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 19",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 20",
+      "type": "bnc"
+    },
+    {
+      "name": "Ana Audio 1",
+      "type": "jack"
+    },
+    {
+      "name": "Ana Audio 2",
+      "type": "jack"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    },
+    {
+      "name": "Control",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "Output 1", "type": "bnc" },
+    { "name": "Output 2", "type": "bnc" },
+    { "name": "Output 3", "type": "bnc" },
+    { "name": "Output 4", "type": "bnc" },
+    { "name": "Output 5", "type": "bnc" },
+    { "name": "Output 6", "type": "bnc" },
+    { "name": "Output 7", "type": "bnc" },
+    { "name": "Output 8", "type": "bnc" },
+    { "name": "Output 9", "type": "bnc" },
+    { "name": "Output 10", "type": "bnc" },
+    { "name": "Output 11", "type": "bnc" },
+    { "name": "Output 12", "type": "bnc" },
+    { "name": "Multiview 1", "type": "bnc" },
+    { "name": "Multiview 2", "type": "bnc" }
+  ]
+}

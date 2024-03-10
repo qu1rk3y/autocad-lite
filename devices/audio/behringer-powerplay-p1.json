@@ -1,0 +1,22 @@
+{
+  "options": {
+    "vendor": "Behringer",
+    "model": "POWERPLAY P1"
+  },
+  "inputs": [
+    {
+      "name": "INPUT (L)",
+      "type": "xlr"
+    },
+    {
+      "name": "INPUT (R)",
+      "type": "xlr"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Headphones",
+      "type": "minijack"
+    }
+  ]
+}

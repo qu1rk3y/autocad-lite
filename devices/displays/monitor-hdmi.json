@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "HDMI Monitor",
+    "compact": true
+  },
+  "inputs": [
+    {
+      "type": "hdmi"
+    }
+  ],
+  "outputs": []
+}

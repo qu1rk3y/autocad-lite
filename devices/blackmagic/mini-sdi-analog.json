@@ -1,0 +1,39 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Mini Converter SDI to Analog"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "ALT SDI IN",
+      "type": "bnc"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Y or NTSC/PAL",
+      "type": "bnc"
+    },
+    {
+      "name": "B-Y or S-VIDEO Y",
+      "type": "bnc"
+    },
+    {
+      "name": "R-Y or S-VIDEO C",
+      "type": "bnc"
+    },
+    { "name": "SDI OUT", "type": "bnc" },
+    {
+      "name": "Ana 1 or AES/EBU",
+      "type": "jack"
+    },
+    {
+      "name": "Ana 2",
+      "type": "jack"
+    }
+  ]
+}

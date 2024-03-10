@@ -1,0 +1,14 @@
+{
+  "options": {
+    "vendor": "Dell",
+    "model": "Monitor Soundbar",
+    "compact": true
+  },
+  "inputs": [
+    {
+      "name": "Input",
+      "type": "minijack"
+    }
+  ],
+  "outputs": []
+}

@@ -1,0 +1,15 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "PC (HDMI)",
+    "placeholders": true,
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "HDMI",
+      "type": "hdmi"
+    }
+  ]
+}

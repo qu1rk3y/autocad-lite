@@ -1,0 +1,15 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "PC (USB)",
+    "placeholders": true,
+    "compact": true
+  },
+  "inputs": [
+    {
+      "name": "USB",
+      "type": "usb"
+    }
+  ],
+  "outputs": []
+}

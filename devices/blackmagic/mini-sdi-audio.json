@@ -1,0 +1,35 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Mini Converter SDI to Audio"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "ALT SDI IN",
+      "type": "bnc"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Ana 1 or AES 1/2",
+      "type": "jack"
+    },
+    {
+      "name": "Ana 2 or AES 3/4",
+      "type": "jack"
+    },
+    {
+      "name": "Ana 3 or AES 5/6",
+      "type": "jack"
+    },
+    {
+      "name": "Ana 4 or AES 7/8",
+      "type": "jack"
+    },
+    { "name": "SDI OUT", "type": "bnc" }
+  ]
+}

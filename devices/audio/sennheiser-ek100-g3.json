@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Sennheiser",
+    "model": "EK 100 G3"
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "AF OUT",
+      "type": "minijack"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "Router (1 WAN, 4 LAN)"
+  },
+  "inputs": [
+    {
+      "name": "WAN",
+      "type": "rj45"
+    },
+    {
+      "name": "LAN 1",
+      "type": "rj45"
+    },
+    {
+      "name": "LAN 2",
+      "type": "rj45"
+    },
+    {
+      "name": "LAN 3",
+      "type": "rj45"
+    },
+    {
+      "name": "LAN 4",
+      "type": "rj45"
+    }
+  ],
+  "outputs": []
+}

@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "Composite to VGA converter"
+  },
+  "inputs": [
+    {
+      "name": "Composite In",
+      "type": "bnc"
+    }
+  ],
+  "outputs": [{ "name": "VGA Out", "type": "vga" }]
+}

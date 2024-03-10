@@ -1,0 +1,20 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Micro Converter BiDi SDI/HDMI 3G"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI OUT", "type": "bnc" },
+    { "name": "HDMI OUT", "type": "hdmi" }
+  ]
+}

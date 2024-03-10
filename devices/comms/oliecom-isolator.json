@@ -1,0 +1,26 @@
+{
+  "options": {
+    "vendor": "Oliecom",
+    "model": "Isolator"
+  },
+  "inputs": [
+    {
+      "name": "Wet Ring In",
+      "type": "xlr"
+    },
+    {
+      "name": "Audio In",
+      "type": "xlr"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Wet Ring Out",
+      "type": "xlr"
+    },
+    {
+      "name": "Audio Out",
+      "type": "xlr"
+    }
+  ]
+}

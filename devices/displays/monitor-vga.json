@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "VGA Monitor",
+    "compact": true
+  },
+  "inputs": [
+    {
+      "type": "vga"
+    }
+  ],
+  "outputs": []
+}

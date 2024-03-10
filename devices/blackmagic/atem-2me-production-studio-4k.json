@@ -1,0 +1,118 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "ATEM 2 M/E Production Studio 4K"
+  },
+  "inputs": [
+    {
+      "name": "Input 1",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 1",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 2",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 3",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 4",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 5",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 6",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 7",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 8",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 9",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 10",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 11",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 12",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 13",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 14",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 15",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 16",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 17",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 18",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 19",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 20",
+      "type": "bnc"
+    },
+    { "name": "REF IN", "type": "ref" },
+    { "name": "Control", "type": "rj45" },
+    { "name": "Ana Aud Ch 1", "type": "xlr" },
+    { "name": "Ana Aud Ch 2", "type": "xlr" }
+  ],
+  "outputs": [
+    { "name": "PGM 1", "type": "bnc" },
+    { "name": "PGM 2", "type": "bnc" },
+    { "name": "PGM HD", "type": "bnc" },
+    { "name": "M/E 1 PVW", "type": "bnc" },
+    { "name": "M/E 2 PGM", "type": "bnc" },
+    { "name": "M/V HD 1", "type": "bnc" },
+    { "name": "M/V HD 2", "type": "bnc" },
+    { "name": "Aux 1", "type": "bnc" },
+    { "name": "Aux 2", "type": "bnc" },
+    { "name": "Aux 3", "type": "bnc" },
+    { "name": "Aux 4", "type": "bnc" },
+    { "name": "Aux 5", "type": "bnc" },
+    { "name": "Aux 6", "type": "bnc" },
+    { "name": "PGM", "type": "hdmi" },
+    { "name": "M/V HD 1", "type": "hdmi" },
+    { "name": "M/V HD 2", "type": "hdmi" },
+    { "name": "Ana Aud Ch 1", "type": "xlr" },
+    { "name": "Ana Aud Ch 2", "type": "xlr" },
+    { "name": "Ana Aud Mon Ch 1", "type": "xlr" },
+    { "name": "Ana Aud Mon Ch 1", "type": "xlr" }
+  ]
+}

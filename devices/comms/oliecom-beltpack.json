@@ -1,0 +1,18 @@
+{
+  "options": {
+    "vendor": "Oliecom",
+    "model": "Beltpack"
+  },
+  "inputs": [
+    {
+      "name": "Wet Audio In",
+      "type": "xlr"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Wet Loop",
+      "type": "xlr"
+    }
+  ]
+}

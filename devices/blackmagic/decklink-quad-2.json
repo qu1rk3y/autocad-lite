@@ -1,0 +1,78 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "DeckLink Quad 2"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN/OUT 1",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 2",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 3",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 4",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 5",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 6",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 7",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 8",
+      "type": "bnc"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "SDI IN/OUT 1",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 2",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 3",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 4",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 5",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 6",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 7",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN/OUT 8",
+      "type": "bnc"
+    }
+  ]
+}

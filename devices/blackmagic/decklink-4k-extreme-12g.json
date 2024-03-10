@@ -1,0 +1,31 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "DeckLink 4K Extreme 12G"
+  },
+  "inputs": [
+    {
+      "name": "12G-SDI In Ch A",
+      "type": "bnc"
+    },
+    {
+      "name": "12G-SDI In Ch B",
+      "type": "bnc"
+    },
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "12G-SDI Out Ch A",
+      "type": "bnc"
+    },
+    {
+      "name": "12G-SDI Out Ch B",
+      "type": "bnc"
+    },
+    { "name": "HDMI OUT", "type": "hdmi" }
+  ]
+}

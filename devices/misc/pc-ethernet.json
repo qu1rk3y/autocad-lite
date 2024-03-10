@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "PC"
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "Ethernet",
+      "type": "rj45"
+    }
+  ]
+}

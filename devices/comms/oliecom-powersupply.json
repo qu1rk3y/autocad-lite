@@ -1,0 +1,18 @@
+{
+  "options": {
+    "vendor": "Oliecom",
+    "model": "Power Supply"
+  },
+  "inputs": [
+    {
+      "name": "Dry Ring In",
+      "type": "xlr"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Wet Ring Out",
+      "type": "xlr"
+    }
+  ]
+}

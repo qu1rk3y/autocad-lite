@@ -1,0 +1,29 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "5-port Ethernet Switch"
+  },
+  "inputs": [
+    {
+      "name": "Port 1",
+      "type": "rj45"
+    },
+    {
+      "name": "Port 2",
+      "type": "rj45"
+    },
+    {
+      "name": "Port 3",
+      "type": "rj45"
+    },
+    {
+      "name": "Port 4",
+      "type": "rj45"
+    },
+    {
+      "name": "Port 5",
+      "type": "rj45"
+    }
+  ],
+  "outputs": []
+}

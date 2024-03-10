@@ -1,0 +1,11 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "Headphone Amp"
+  },
+  "inputs": [{ "name": "Input", "type": "jack" }],
+  "outputs": [
+    { "name": "Output", "type": "jack" },
+    { "name": "Output", "type": "jack" }
+  ]
+}

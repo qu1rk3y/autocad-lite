@@ -1,0 +1,22 @@
+{
+  "options": {
+    "vendor": "Julian's",
+    "model": "Talkback Headset Adapter"
+  },
+  "inputs": [
+    {
+      "name": "Headset In",
+      "type": "minijack"
+    },
+    {
+      "name": "Audio In",
+      "type": "xlr"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Mic Out",
+      "type": "xlr"
+    }
+  ]
+}

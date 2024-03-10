@@ -1,0 +1,26 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Mini Converter UpDownCross HD"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI OUT", "type": "bnc" },
+    { "name": "SDI OUT", "type": "bnc" },
+    { "name": "SDI LOOP", "type": "bnc" },
+    { "name": "HDMI OUT", "type": "hdmi" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "options": {
+    "vendor": "Sennheiser",
+    "model": "EM 100 G3"
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "AF OUT",
+      "type": "xlr"
+    },
+    {
+      "name": "AF OUT",
+      "type": "jack"
+    }
+  ]
+}

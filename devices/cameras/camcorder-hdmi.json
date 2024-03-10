@@ -1,0 +1,9 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "HDMI Camcorder",
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [{ "type": "hdmi" }]
+}

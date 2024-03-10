@@ -1,0 +1,11 @@
+{
+  "options": {
+    "vendor": "Sennheiser",
+    "model": "SR 300 IEM"
+  },
+  "inputs": [
+    { "name": "L", "type": "xlr" },
+    { "name": "R", "type": "xlr" }
+  ],
+  "outputs": []
+}

@@ -1,0 +1,17 @@
+{
+  "options": {
+    "vendor": "Yamaha",
+    "model": "HS8"
+  },
+  "inputs": [
+    {
+      "name": "INPUT 1",
+      "type": "xlr"
+    },
+    {
+      "name": "INPUT 2",
+      "type": "jack"
+    }
+  ],
+  "outputs": []
+}

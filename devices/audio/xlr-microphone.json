@@ -1,0 +1,10 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "XLR Microphone",
+    "compact": true,
+    "placeholders": true
+  },
+  "inputs": [],
+  "outputs": [{ "type": "xlr" }]
+}
