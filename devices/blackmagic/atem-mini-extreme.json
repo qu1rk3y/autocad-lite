@@ -1,0 +1,48 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "ATEM Mini Extreme"
+  },
+  "inputs": [
+    {
+      "name": "Input 1",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 2",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 3",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 4",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 5",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 6",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 7",
+      "type": "hdmi"
+    },
+    {
+      "name": "Input 8",
+      "type": "hdmi"
+    },
+    {
+      "name": "Control",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "Out 1", "type": "hdmi" },
+    { "name": "Out 2", "type": "hdmi" }
+  ]
+}

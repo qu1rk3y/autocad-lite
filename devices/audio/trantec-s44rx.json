@@ -1,0 +1,17 @@
+{
+  "options": {
+    "vendor": "Trantec",
+    "model": "S4.4RX"
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "BAL OUT",
+      "type": "xlr"
+    },
+    {
+      "name": "UNBAL OUT",
+      "type": "jack"
+    }
+  ]
+}

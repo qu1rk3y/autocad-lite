@@ -4,6 +4,6 @@
     "model": "HDMI Camcorder",
     "compact": true
   },
-  "inputs": [],
+  "inputs": [{ "type": "xlr" }],
   "outputs": [{ "type": "hdmi" }]
 }

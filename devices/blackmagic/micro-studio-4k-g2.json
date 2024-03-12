@@ -1,0 +1,16 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Micro Studio Camera 4K G2"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI OUT", "type": "bnc" },
+    { "name": "HDMI OUT", "type": "hdmi" }
+  ]
+}

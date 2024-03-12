@@ -1,0 +1,10 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "XLR Speaker",
+    "compact": true,
+    "placeholders": true
+  },
+  "inputs": [{ "type": "xlr" }],
+  "outputs": []
+}
