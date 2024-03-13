@@ -1,0 +1,48 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Teranex AV (Minimal)"
+  },
+  "inputs": [
+    {
+      "name": "XLR IN L",
+      "type": "xlr"
+    },
+    {
+      "name": "XLR IN R",
+      "type": "xlr"
+    },
+    {
+      "name": "SDI IN A",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN B",
+      "type": "bnc"
+    },
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    },
+    {
+      "name": "ETHERNET",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI LOOP OUT 1", "type": "bnc" },
+    { "name": "SDI LOOP OUT 2", "type": "bnc" },
+    { "name": "SDI OUT 1", "type": "bnc" },
+    { "name": "SDI OUT 2", "type": "bnc" },
+    { "name": "HDMI LOOP OUT", "type": "hdmi" },
+    { "name": "HDMI OUT", "type": "hdmi" },
+    {
+      "name": "REF OUT",
+      "type": "ref"
+    }
+  ]
+}

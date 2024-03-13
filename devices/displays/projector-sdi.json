@@ -1,0 +1,13 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "SDI Projector",
+    "compact": true
+  },
+  "inputs": [
+    {
+      "type": "bnc"
+    }
+  ],
+  "outputs": []
+}

@@ -1,0 +1,222 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Smart Videohub 40x40"
+  },
+  "inputs": [
+    {
+      "name": "Input 1",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 2",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 3",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 4",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 5",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 6",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 7",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 8",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 9",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 10",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 11",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 12",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 13",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 14",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 15",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 16",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 17",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 18",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 19",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 20",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 21",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 22",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 23",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 24",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 25",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 26",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 27",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 28",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 29",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 30",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 31",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 32",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 33",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 34",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 35",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 36",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 37",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 38",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 39",
+      "type": "bnc"
+    },
+    {
+      "name": "Input 40",
+      "type": "bnc"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    },
+    {
+      "name": "Control",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "Output 1", "type": "bnc" },
+    { "name": "Output 2", "type": "bnc" },
+    { "name": "Output 3", "type": "bnc" },
+    { "name": "Output 4", "type": "bnc" },
+    { "name": "Output 5", "type": "bnc" },
+    { "name": "Output 6", "type": "bnc" },
+    { "name": "Output 7", "type": "bnc" },
+    { "name": "Output 8", "type": "bnc" },
+    { "name": "Output 9", "type": "bnc" },
+    { "name": "Output 10", "type": "bnc" },
+    { "name": "Output 11", "type": "bnc" },
+    { "name": "Output 12", "type": "bnc" },
+    { "name": "Output 13", "type": "bnc" },
+    { "name": "Output 14", "type": "bnc" },
+    { "name": "Output 15", "type": "bnc" },
+    { "name": "Output 16", "type": "bnc" },
+    { "name": "Output 17", "type": "bnc" },
+    { "name": "Output 18", "type": "bnc" },
+    { "name": "Output 19", "type": "bnc" },
+    { "name": "Output 20", "type": "bnc" },
+    { "name": "Output 21", "type": "bnc" },
+    { "name": "Output 22", "type": "bnc" },
+    { "name": "Output 23", "type": "bnc" },
+    { "name": "Output 24", "type": "bnc" },
+    { "name": "Output 25", "type": "bnc" },
+    { "name": "Output 26", "type": "bnc" },
+    { "name": "Output 27", "type": "bnc" },
+    { "name": "Output 28", "type": "bnc" },
+    { "name": "Output 29", "type": "bnc" },
+    { "name": "Output 30", "type": "bnc" },
+    { "name": "Output 31", "type": "bnc" },
+    { "name": "Output 32", "type": "bnc" },
+    { "name": "Output 33", "type": "bnc" },
+    { "name": "Output 34", "type": "bnc" },
+    { "name": "Output 35", "type": "bnc" },
+    { "name": "Output 36", "type": "bnc" },
+    { "name": "Output 37", "type": "bnc" },
+    { "name": "Output 38", "type": "bnc" },
+    { "name": "Output 39", "type": "bnc" },
+    { "name": "Output 40", "type": "bnc" },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    }
+  ]
+}

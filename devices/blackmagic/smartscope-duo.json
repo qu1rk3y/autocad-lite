@@ -1,0 +1,34 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "SmartScope Duo"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN 1",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN 2",
+      "type": "bnc"
+    },
+    {
+      "name": "Control",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "SDI OUT 1",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI OUT 2",
+      "type": "bnc"
+    },
+    {
+      "name": "Control",
+      "type": "rj45"
+    }
+  ]
+}

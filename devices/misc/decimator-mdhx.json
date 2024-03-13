@@ -1,0 +1,38 @@
+{
+  "options": {
+    "vendor": "Decimator",
+    "model": "MDHX"
+  },
+  "inputs": [
+    {
+      "name": "HDMI In",
+      "type": "hdmi"
+    },
+    {
+      "name": "SDI In",
+      "type": "bnc"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "HDMI Out",
+      "type": "hdmi"
+    },
+    {
+      "name": "SDI Out 1",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI Out 1",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI Out 2",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI Out 2",
+      "type": "bnc"
+    }
+  ]
+}

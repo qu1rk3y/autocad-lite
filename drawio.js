@@ -25,6 +25,10 @@ let SocketTypes = {
     colour: "#ff4500",
     name: "XLR",
   },
+  rca: {
+    colour: "#ff4500",
+    name: "RCA",
+  },
   rj45: {
     colour: "#00FF00",
     name: "RJ45",
@@ -52,6 +56,10 @@ let SocketTypes = {
   vga: {
     colour: "#0000ff",
     name: "VGA",
+  },
+  lc: {
+    colour: "#003300",
+    name: "LC",
   },
 };
 

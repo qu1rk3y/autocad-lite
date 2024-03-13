@@ -1,0 +1,26 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Smartview HD 17"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "Control",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "SDI OUT",
+      "type": "bnc"
+    },
+    {
+      "name": "Control",
+      "type": "rj45"
+    }
+  ]
+}

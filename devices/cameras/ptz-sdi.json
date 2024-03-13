@@ -1,0 +1,9 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "SDI PTZ Camera",
+    "compact": true
+  },
+  "inputs": [{ "type": "rj45" }],
+  "outputs": [{ "type": "bnc" }]
+}

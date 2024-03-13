@@ -1,0 +1,24 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Mini Converter HDMI to SDI"
+  },
+  "inputs": [
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    },
+    {
+      "name": "Ana 1 or AES",
+      "type": "jack"
+    },
+    {
+      "name": "Ana 2",
+      "type": "jack"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI OUT", "type": "bnc" },
+    { "name": "SDI OUT", "type": "bnc" }
+  ]
+}
