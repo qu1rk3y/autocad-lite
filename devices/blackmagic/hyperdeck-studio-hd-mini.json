@@ -1,0 +1,34 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "HyperDeck Studio HD Mini"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "TIMECODE IN",
+      "type": "ltcbnc"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    },
+    {
+      "name": "REMOTE IN",
+      "type": "de9"
+    },
+    {
+      "name": "ETHERNET",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI OUT", "type": "bnc" },
+    { "name": "HDMI OUT", "type": "hdmi" },
+    { "name": "TIMECODE OUT", "type": "ltcbnc" },
+    { "name": "REF OUT", "type": "ref" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "DeckLink SDI 4K"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    }
+  ],
+  "outputs": [{ "name": "SDI OUT", "type": "bnc" }]
+}

@@ -1,0 +1,15 @@
+{
+  "options": {
+    "vendor": "Cable Drop",
+    "model": "SDI",
+    "placeholders": true,
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "SDI",
+      "type": "bnc"
+    }
+  ]
+}

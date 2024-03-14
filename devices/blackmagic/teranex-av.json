@@ -1,0 +1,64 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "Teranex AV"
+  },
+  "inputs": [
+    {
+      "name": "XLR IN L",
+      "type": "xlr"
+    },
+    {
+      "name": "XLR IN R",
+      "type": "xlr"
+    },
+    {
+      "name": "STEREO IN",
+      "type": "rca"
+    },
+    {
+      "name": "SDI IN A",
+      "type": "bnc"
+    },
+    {
+      "name": "SDI IN B",
+      "type": "bnc"
+    },
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    },
+    {
+      "name": "OPTICAL IN",
+      "type": "lc"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    },
+    {
+      "name": "ETHERNET",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI LOOP OUT 1", "type": "bnc" },
+    { "name": "SDI LOOP OUT 2", "type": "bnc" },
+    { "name": "SDI OUT 1", "type": "bnc" },
+    { "name": "SDI OUT 2", "type": "bnc" },
+    { "name": "HDMI LOOP OUT", "type": "hdmi" },
+    { "name": "HDMI OUT", "type": "hdmi" },
+    {
+      "name": "OPTICAL OUT",
+      "type": "lc"
+    },
+    { "name": "QUAD SDI OUT A", "type": "bnc" },
+    { "name": "QUAD SDI OUT B", "type": "bnc" },
+    { "name": "QUAD SDI OUT C", "type": "bnc" },
+    { "name": "QUAD SDI OUT D", "type": "bnc" },
+    {
+      "name": "REF OUT",
+      "type": "ref"
+    }
+  ]
+}

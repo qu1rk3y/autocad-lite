@@ -1,0 +1,31 @@
+{
+  "options": {
+    "vendor": "Blackmagic Design",
+    "model": "HyperDeck Studio 4K"
+  },
+  "inputs": [
+    {
+      "name": "SDI IN",
+      "type": "bnc"
+    },
+    {
+      "name": "HDMI IN",
+      "type": "hdmi"
+    },
+    {
+      "name": "REF IN",
+      "type": "ref"
+    },
+    {
+      "name": "ETHERNET",
+      "type": "rj45"
+    }
+  ],
+  "outputs": [
+    { "name": "SDI LOOP OUT", "type": "bnc" },
+    { "name": "SDI OUT 1", "type": "bnc" },
+    { "name": "SDI OUT 2", "type": "bnc" },
+    { "name": "HDMI OUT", "type": "hdmi" },
+    { "name": "TIMECODE OUT", "type": "ltcbnc" }
+  ]
+}

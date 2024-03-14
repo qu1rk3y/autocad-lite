@@ -1,0 +1,15 @@
+{
+  "options": {
+    "vendor": "Cable Drop",
+    "model": "RJ45",
+    "placeholders": true,
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "RJ45",
+      "type": "rj45"
+    }
+  ]
+}
