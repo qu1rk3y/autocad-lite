@@ -1,0 +1,14 @@
+{
+  "options": {
+    "vendor": "Cable Drop",
+    "model": "XLR",
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "XLR",
+      "type": "xlr"
+    }
+  ]
+}

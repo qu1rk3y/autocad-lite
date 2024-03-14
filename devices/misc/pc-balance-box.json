@@ -1,0 +1,23 @@
+{
+  "options": {
+    "vendor": "Generic",
+    "model": "PC Balance Box",
+    "placeholders": false
+  },
+  "inputs": [
+    {
+      "name": "3.5mm",
+      "type": "rca"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Left",
+      "type": "xlr"
+    },
+    {
+      "name": "Right",
+      "type": "xlr"
+    }
+  ]
+}

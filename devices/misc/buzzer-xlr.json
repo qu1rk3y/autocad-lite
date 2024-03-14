@@ -1,0 +1,14 @@
+{
+  "options": {
+    "vendor": "JG Audio",
+    "model": "Buzzer",
+    "compact": true
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "XLR",
+      "type": "xlr"
+    }
+  ]
+}
